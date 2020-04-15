@@ -1,5 +1,8 @@
-docker-compose up
+## Start
+> `docker-compose up`
 
-username root // defualt
+> `docker-compose down -v` // deletes persistent volumes4
 
-docker-compose down -v  // deletes persistent volumes
+> username root // defualt username
+> server is 'db' in adminer
+
